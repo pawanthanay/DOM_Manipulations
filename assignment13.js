@@ -1,0 +1,1 @@
+document.getElementsByClassName("fl-heading-text")[0].innerText = "JSBOOTCAMP"

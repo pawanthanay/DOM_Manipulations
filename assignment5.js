@@ -1,0 +1,1 @@
+document.querySelectorAll('div.key-feature-tab__cta-wrap a.cta--contained')[0].innerText = 'check out';

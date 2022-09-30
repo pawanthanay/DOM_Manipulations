@@ -1,0 +1,1 @@
+document.querySelectorAll('div.customer-support a')[0].innerText = '+91 9866792415';

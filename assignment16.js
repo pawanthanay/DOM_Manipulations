@@ -1,0 +1,1 @@
+document.querySelectorAll("h4.section-title_title__VEDfK")[0].innerText = "Start With Scartch";
